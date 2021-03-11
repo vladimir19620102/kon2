@@ -8,4 +8,5 @@
 *.dof
 *.dsk
 *.exe
+*.log
 *.obj
